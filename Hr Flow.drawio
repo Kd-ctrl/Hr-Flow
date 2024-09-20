@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="ltxTjbDsIKDXTP8MXprU">
-    <mxGraphModel dx="870" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,13 +77,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IX7F5I1TnNcRq7RptcKg-31" value="Holiday list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IX7F5I1TnNcRq7RptcKg-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IX7F5I1TnNcRq7RptcKg-33" target="IX7F5I1TnNcRq7RptcKg-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IX7F5I1TnNcRq7RptcKg-33" value="Company" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IX7F5I1TnNcRq7RptcKg-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IX7F5I1TnNcRq7RptcKg-35" target="IX7F5I1TnNcRq7RptcKg-36">
           <mxGeometry relative="1" as="geometry" />
@@ -111,6 +111,12 @@
         </mxCell>
         <mxCell id="IX7F5I1TnNcRq7RptcKg-42" value="Income tax Slab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IX7F5I1TnNcRq7RptcKg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IX7F5I1TnNcRq7RptcKg-44" target="IX7F5I1TnNcRq7RptcKg-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IX7F5I1TnNcRq7RptcKg-44" value="Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
